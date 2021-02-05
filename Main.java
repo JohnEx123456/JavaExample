@@ -1,5 +1,5 @@
 
-
+// java Example _ flopping arrays 2021 feb 4
 class Main{ 
    
 static void revArrayAllCols(int arr[][]) 
